@@ -1,0 +1,77 @@
+.bottom p{
+    text-align: center;
+    line-height: 15px;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+/********** Menu Order Link **********/
+
+.order a{
+    background-color: #fff;
+    color: #2279bd;
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    width: 100px;
+    margin-bottom: 20px;
+    padding-left: 19px;
+    border-radius: 10px;
+    font-weight: 800;
+}
+
+.order a:hover{
+    color: #fff;
+    background-color: #2279BD;
+}
+
+/********** Bank Transaction Form **********/
+
+.home-link button{
+    display: block;
+    margin: auto;
+    color: #2279BD;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    padding: 12px 22px;
+}
+
+.home-link button:hover{
+    background-color: #2279BD;
+    color: #fff;
+}
+
+.payment-details form{
+    width: 50%;
+    margin: auto;
+}
+
+/********** Transaction Form Submit Button **********/
+
+.send-link button{
+   display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.alert{
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+
+/********** Wrapper Head First Image **********/
+
+.top-header img{
+    border-radius: 10px;
+    box-shadow: 1px 1px #fff;
+}
+
+.thumbnail img{
+    border-radius: 10px;
+    box-shadow: 1px 1px #fff;
+}
+
+
